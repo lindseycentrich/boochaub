@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oxiuwaihiu.activityspaceproject.com/sitemap.xml
